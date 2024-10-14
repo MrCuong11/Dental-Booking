@@ -1,9 +1,4 @@
-/*--------------------------
-    Project Name: Medcity
-    Version: 1.0
-    Author: 7oorof
-    Relase Date: April 2021
----------------------------*/
+
 /*---------------------------
       Table of Contents
     --------------------
